@@ -50,7 +50,7 @@
             android:name=".FamilyActivity"
             android:label="@string/category_family"
             android:parentActivityName=".MainActivity">
-            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <!-- Paarent activity meta-data to support 4.0 and lower -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
